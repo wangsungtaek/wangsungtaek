@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👻 "나는 미래가 설레는 사람이고 싶다" 🎉
 
-<!--
-**wangsungtaek/wangsungtaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+인생을 살아가면서 잃지 않으려고 하는 메시지이다.<br>
+30살에는 31살이, 50살엔 51살이..<br>
+나이에 상관없이 앞으로 다가올 미래를 설레는 마음으로 맞이하고 싶다<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+나의 삶에 집중하는 것..<br>
+내가 만들어 낼 수 있는 무언가에 집중하는 것..<br>
+이러한 것들이 나의 삶을 주체적으로 만들고 나를 설레게 만든다.<br>
+<br>
+<br>
+___
