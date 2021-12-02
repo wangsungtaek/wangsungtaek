@@ -8,4 +8,17 @@
 내가 만들어 낼 수 있는 무언가에 집중하는 것..<br>
 이러한 것들이 나의 삶을 주체적으로 만들고 나를 설레게 만든다.<br>
 <br>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=doobyeol&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+      </td>
+      <td align="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doobyeol&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
+</p>
 ___
